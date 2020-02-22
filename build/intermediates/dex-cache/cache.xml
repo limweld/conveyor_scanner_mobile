@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_e109a28074fb70942f31f659a63de71e13c8ef93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/11752d3f24d1a9deda4533a7ca18d8496417ceeb/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2_4da3901ee0d48e3394b235dbaa69abe4cde81b34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3cc97f9db2d6987473b605cebf5ec13a6690294d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_84e37de44a07fbd3af7eb7c64e052b20d629ab7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/me.dm7.barcodescanner-core-1.9_129a5eff3c5576271c35d502d417b310752dcaae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_cc39e7a4b3b6892743455142fea1879235ffa6c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_2c27d3db7dc186c11471d65e065635b0c9bf8fa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.android.service/1.0.2/2d956522c556caeb35148445ecd059ebe67331f6/org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d956522c556caeb35148445ecd059ebe67331f6">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.0.2_f8ad307a03a3178a719af2e1c55241342fbbc475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zxing/1.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/me.dm7.barcodescanner-zxing-1.9_4d747703a23347b6b42e1c070017cc1b4ab2fab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3312a584ef678aa2fd6c314d99a5308bab5cdd30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_bedbf568907805d2613fa3b83d2d2c5bb526223c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_e34b8f398009a1b357fc931b439975e4b224bef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_bdf058058e8453fba8fec224d1f46dc796877b47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.0.1/a09194311f8f89c3e6db09d79f50897a889d615e/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_42bcd626bcb5495a5925690d9f130a701bdb16c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4ceee3ff67530fc40993c74c577c5d7e4cc18583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/core-3.2.1_c5928810499b23f3318bdfaace4ca3300bdc7c38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_bee8d58039452c45a0ff3ed7be5bc5d1231c0dbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_bf14a7dd67f1cc1186c1e32333ad568455d30fb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_d4cd1aeae64fc0ff704800092ca336b12ac2c09e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/limx/Documents/project_design_2020/Android-ScannerProject-QR-Barcode-/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f228ef55c50e941f949e3a378e5e947b7d72b3eb.jar" />
+    </item>
+
+</items>
